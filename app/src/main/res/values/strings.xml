@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">JNI &amp; NDK 开发实践</string>
+    <string name="app_name">Cpp17 Android</string>
 
     <string name="item_name">姓名：</string>
     <string name="name">姓名</string>
